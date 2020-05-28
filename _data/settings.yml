@@ -4,7 +4,7 @@ analytics-id: #leave blank to not use Analytics
 #Subtitle
 subtitle:
   active: true
-  text: Cambridge, UK
+  text: What cannot be measured cannot be improved
 
 #Nav 
 nav:

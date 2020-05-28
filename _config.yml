@@ -1,11 +1,11 @@
 # Site settings
 title: Sangjin Lee
-description: "What cannot be measured cannot be improved"
+description: "Cambridge, UK"
 url:  "https://sjin09.github.io" # Actual base url of the website
 baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
   name: "Sangjin Lee"
-  email: "sjin.lee09@gmail.com"
+  email: "sl17@sanger.ac.uk"
 permalink: /:year/:month/:day/:title:output_ext
 
 #Plugins
